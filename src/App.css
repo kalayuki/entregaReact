@@ -43,4 +43,18 @@
   display: flex;
   flex: row;
   flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.sppiner{
+
+  display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.conteinerDetail{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
